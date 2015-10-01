@@ -208,19 +208,13 @@ aside {
 
 /* footer */
 
-body > footer:first-of-type {
+body > footer {
     background: #C0C0C0 ;
     color: #6B6B6B;
     display: flex;
     flex-wrap: wrap;
     padding-top: 2em;
     width: 98%;
-}
-
-body > footer:last-of-type {
-    background: #C0C0C0;
-    color: #6B6B6B;
-    flex: none;
     padding-top: 2em;
     padding-left: 1em;
     margin-left: 0.3em;
